@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/6twelve/Scene/DEMO.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
