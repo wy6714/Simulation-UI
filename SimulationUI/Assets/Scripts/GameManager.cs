@@ -33,18 +33,7 @@ public class GameManager : MonoBehaviour
         //if press L key, buy large milk
         if (Input.GetKeyDown(KeyCode.L))
         {
-            ListText.text = "Items: ";
-            buyItem = "large milk(Purple)";
-            buymesgText.text = "You bought " + buyItem + " !";
-
-            Lmilks += 1;
-
-            //update list text
-            LmilkText.text = buyItem + " " + Lmilks;
-
-            //play animation
-            BuymesgAnim.SetTrigger("buyUp");
-            Invoke("buyReminderOff", 3.5f);
+            
 
         }
 
@@ -53,16 +42,7 @@ public class GameManager : MonoBehaviour
         //if press S key, buy small milk
         if (Input.GetKeyDown(KeyCode.S))
         {
-            ListText.text = "Items: ";
-            buyItem = "small milk(Blue)";
-            buymesgText.text = "You bought " + buyItem + " !";
-            Smilks += 1;
-            //update list text
-
-            SmilkText.text = buyItem + " " + Smilks;
-            //play animation
-            BuymesgAnim.SetTrigger("buyUp");
-            Invoke("buyReminderOff", 3.5f);
+            
         }
         //press b open bag
         if (Input.GetKeyDown(KeyCode.B))
@@ -82,5 +62,35 @@ public class GameManager : MonoBehaviour
     {
         //play animation
         BuymesgAnim.SetTrigger("buyOff");
+    }
+
+    public void purchaseSmallMilk()
+    {
+        ListText.text = "Items: ";
+        buyItem = "small milk(Blue)";
+        buymesgText.text = "You bought " + buyItem + " !";
+        Smilks += 1;
+        //update list text
+
+        SmilkText.text = buyItem + " " + Smilks;
+        //play animation
+        BuymesgAnim.SetTrigger("buyUp");
+        Invoke("buyReminderOff", 3.5f);
+    }
+
+    public void purchaseLargeMilk()
+    {
+        ListText.text = "Items: ";
+        buyItem = "large milk(Purple)";
+        buymesgText.text = "You bought " + buyItem + " !";
+
+        Lmilks += 1;
+
+        //update list text
+        LmilkText.text = buyItem + " " + Lmilks;
+
+        //play animation
+        BuymesgAnim.SetTrigger("buyUp");
+        Invoke("buyReminderOff", 3.5f);
     }
 }

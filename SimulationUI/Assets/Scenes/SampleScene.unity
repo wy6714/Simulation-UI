@@ -130,6 +130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 584572034}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (8)
@@ -192,6 +196,11 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 2141963712379058935, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
   m_PrefabInstance: {fileID: 2638973}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &9398773 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
+  m_PrefabInstance: {fileID: 300536337}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &14733342
 GameObject:
@@ -871,6 +880,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1872645128}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (5)
@@ -947,15 +960,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.8296
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1147,6 +1160,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1271126991}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant
@@ -1684,6 +1701,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1271126991}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (9)
@@ -1809,6 +1830,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8933820112730165543, guid: 813514065c5924d57a7f239d01e680e7, type: 3}
   m_PrefabInstance: {fileID: 267567426}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &280791439 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
+  m_PrefabInstance: {fileID: 1669248211}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &295729209
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1878,6 +1904,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1271126991}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (7)
@@ -1954,15 +1984,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.8296
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2015,6 +2045,32 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
   m_PrefabInstance: {fileID: 300536337}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &300536339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9398773}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2776f77622e742fc93332be13251809, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gm: {fileID: 264383781}
+--- !u!65 &300536340
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9398773}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.2, y: 0.65, z: 0.3}
+  m_Center: {x: 0, y: 0.33, z: 0}
 --- !u!1 &301136812
 GameObject:
   m_ObjectHideFlags: 0
@@ -2182,6 +2238,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1271126991}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (8)
@@ -2799,6 +2859,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 584572034}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (1)
@@ -2806,14 +2870,6 @@ PrefabInstance:
     - target: {fileID: 2141963712379058935, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_RootOrder
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2141963712379058935, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.75
-      objectReference: {fileID: 0}
-    - target: {fileID: 2141963712379058935, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2.75
       objectReference: {fileID: 0}
     - target: {fileID: 2141963712379058935, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2869,6 +2925,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1271126991}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (3)
@@ -2939,6 +2999,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1872645128}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (2)
@@ -3328,6 +3392,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2141963712379058935, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
   m_PrefabInstance: {fileID: 478540516}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &518119790 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
+  m_PrefabInstance: {fileID: 890538779}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &520834220
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3335,6 +3404,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 584572034}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (7)
@@ -3505,6 +3578,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 584572034}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (3)
@@ -3617,6 +3694,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1124188568}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (9)
@@ -3811,6 +3892,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 584572034}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (5)
@@ -4013,6 +4098,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1124188568}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (8)
@@ -4083,6 +4172,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 584572034}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant(10)
@@ -4145,6 +4238,11 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 2141963712379058935, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
   m_PrefabInstance: {fileID: 671813201}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &694773294 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
+  m_PrefabInstance: {fileID: 1247451794}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &703791670
 PrefabInstance:
@@ -4223,6 +4321,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 584572034}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (9)
@@ -4511,6 +4613,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1124188568}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (4)
@@ -5073,15 +5179,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.8296
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5283,15 +5389,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.8296
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5476,6 +5582,37 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8933820112730165543, guid: 813514065c5924d57a7f239d01e680e7, type: 3}
   m_PrefabInstance: {fileID: 827911889}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &831477918 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
+  m_PrefabInstance: {fileID: 146443160}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &831477919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831477918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2776f77622e742fc93332be13251809, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gm: {fileID: 264383781}
+--- !u!65 &831477920
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831477918}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.2, y: 0.65, z: 0.3}
+  m_Center: {x: 0, y: 0.33, z: 0}
 --- !u!1001 &836907191
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5865,15 +6002,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.8296
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5926,6 +6063,32 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
   m_PrefabInstance: {fileID: 890538779}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &890538781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 518119790}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2776f77622e742fc93332be13251809, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gm: {fileID: 264383781}
+--- !u!65 &890538782
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 518119790}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.2, y: 0.65, z: 0.3}
+  m_Center: {x: 0, y: 0.33, z: 0}
 --- !u!1001 &899335069
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5933,6 +6096,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1872645128}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (3)
@@ -6041,6 +6208,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1271126991}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (2)
@@ -6298,6 +6469,37 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8933820112730165543, guid: 813514065c5924d57a7f239d01e680e7, type: 3}
   m_PrefabInstance: {fileID: 950085686}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &955626315 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
+  m_PrefabInstance: {fileID: 821110580}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &955626316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 955626315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2776f77622e742fc93332be13251809, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gm: {fileID: 264383781}
+--- !u!65 &955626317
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 955626315}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.2, y: 0.65, z: 0.3}
+  m_Center: {x: 0, y: 0.33, z: 0}
 --- !u!1 &960405804
 GameObject:
   m_ObjectHideFlags: 0
@@ -6969,6 +7171,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
   m_PrefabInstance: {fileID: 1027416708}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1039660750 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
+  m_PrefabInstance: {fileID: 1790092550}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1040998370
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7224,6 +7431,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1124188568}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (3)
@@ -7294,6 +7505,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1872645128}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant
@@ -7871,6 +8086,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1872645128}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (6)
@@ -8115,6 +8334,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1872645128}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (1)
@@ -8359,6 +8582,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1271126991}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (4)
@@ -8435,15 +8662,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.8296
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8496,6 +8723,32 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
   m_PrefabInstance: {fileID: 1247451794}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1247451796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 694773294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2776f77622e742fc93332be13251809, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gm: {fileID: 264383781}
+--- !u!65 &1247451797
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 694773294}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.2, y: 0.65, z: 0.3}
+  m_Center: {x: 0, y: 0.33, z: 0}
 --- !u!1001 &1256343140
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8849,6 +9102,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2141963712379058935, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
   m_PrefabInstance: {fileID: 1275919209}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1286190379 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
+  m_PrefabInstance: {fileID: 1305701887}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1294303828
 GameObject:
   m_ObjectHideFlags: 0
@@ -9068,15 +9326,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.8296
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9129,6 +9387,32 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
   m_PrefabInstance: {fileID: 1305701887}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1305701889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1286190379}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2776f77622e742fc93332be13251809, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gm: {fileID: 264383781}
+--- !u!65 &1305701890
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1286190379}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.2, y: 0.65, z: 0.3}
+  m_Center: {x: 0, y: 0.33, z: 0}
 --- !u!1001 &1311671653
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9532,15 +9816,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.8295996
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.8296
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.8295996
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10078,15 +10362,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.8296
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10290,6 +10574,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1872645128}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (7)
@@ -10440,6 +10728,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 584572034}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant
@@ -10502,6 +10794,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 584572034}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (2)
@@ -11042,6 +11338,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1124188568}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant(10)
@@ -11219,6 +11519,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1271126991}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant(10)
@@ -11623,6 +11927,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1124188568}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant
@@ -11966,15 +12274,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.8296
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12027,6 +12335,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
   m_PrefabInstance: {fileID: 1669248211}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1669248213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 280791439}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2776f77622e742fc93332be13251809, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gm: {fileID: 264383781}
+--- !u!65 &1669248214
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 280791439}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.2, y: 0.65, z: 0.3}
+  m_Center: {x: 0, y: 0.33, z: 0}
+--- !u!1 &1682392494 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
+  m_PrefabInstance: {fileID: 796390761}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1682392495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1682392494}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2776f77622e742fc93332be13251809, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gm: {fileID: 264383781}
+--- !u!65 &1682392496
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1682392494}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.2, y: 0.65, z: 0.3}
+  m_Center: {x: 0, y: 0.33, z: 0}
 --- !u!1001 &1690254490
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12034,6 +12399,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1124188568}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (5)
@@ -12301,6 +12670,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 584572034}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (4)
@@ -12576,6 +12949,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1124188568}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (7)
@@ -12646,6 +13023,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1271126991}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (5)
@@ -12840,6 +13221,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1124188568}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (6)
@@ -12972,6 +13357,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1872645128}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (8)
@@ -13110,15 +13499,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.8296
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.8295994
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13171,6 +13560,32 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
   m_PrefabInstance: {fileID: 1790092550}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1790092552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1039660750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2776f77622e742fc93332be13251809, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gm: {fileID: 264383781}
+--- !u!65 &1790092553
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1039660750}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.2, y: 0.65, z: 0.3}
+  m_Center: {x: 0, y: 0.33, z: 0}
 --- !u!1001 &1792832143
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13248,6 +13663,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1124188568}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (1)
@@ -13455,6 +13874,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1872645128}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (9)
@@ -13525,6 +13948,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1271126991}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (6)
@@ -13752,6 +14179,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 584572034}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (6)
@@ -13934,6 +14365,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1872645128}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (4)
@@ -14128,6 +14563,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1271126991}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (1)
@@ -14320,6 +14759,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1124188568}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant (2)
@@ -14487,6 +14930,37 @@ Transform:
   m_Father: {fileID: 1294303829}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2016431690 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
+  m_PrefabInstance: {fileID: 1343422228}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2016431691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2016431690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2776f77622e742fc93332be13251809, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gm: {fileID: 264383781}
+--- !u!65 &2016431692
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2016431690}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.2, y: 0.65, z: 0.3}
+  m_Center: {x: 0, y: 0.33, z: 0}
 --- !u!114 &2029316318 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8111921885079740382, guid: ae15d07fd17d2477283e0fdda530103c, type: 3}
@@ -14924,6 +15398,37 @@ Transform:
   m_Father: {fileID: 301136813}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2091923331 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: aa9335f3764994438aadea0d962e53d5, type: 3}
+  m_PrefabInstance: {fileID: 1396957405}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2091923332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2091923331}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2776f77622e742fc93332be13251809, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gm: {fileID: 264383781}
+--- !u!65 &2091923333
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2091923331}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.2, y: 0.65, z: 0.3}
+  m_Center: {x: 0, y: 0.33, z: 0}
 --- !u!1001 &2092053243
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15117,6 +15622,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1872645128}
     m_Modifications:
+    - target: {fileID: 1471075043, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
+      propertyPath: gm
+      value: 
+      objectReference: {fileID: 264383781}
     - target: {fileID: 1653410441416745037, guid: d6eaa17963a984c6fa3f12dc81a33792, type: 3}
       propertyPath: m_Name
       value: PinkMilk Variant(10)
