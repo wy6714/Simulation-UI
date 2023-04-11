@@ -19,7 +19,13 @@ public class unitScript : MonoBehaviour
 
     private void OnMouseEnter()
     {
+        transform.localScale = biggerScale;
 
+    }
+
+    private void OnMouseExit()
+    {
+        transform.localScale = normalScale;
     }
 
 }
