@@ -13,27 +13,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: af329db2a43f648c89ac555d284cd611, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.744998
+      value: 2.75
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: af329db2a43f648c89ac555d284cd611, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.744998
+      value: 2.75
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: af329db2a43f648c89ac555d284cd611, type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.744998
+      value: 2.75
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: af329db2a43f648c89ac555d284cd611, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -19
+      value: 4.870001
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: af329db2a43f648c89ac555d284cd611, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.26
+      value: -0.23000002
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: af329db2a43f648c89ac555d284cd611, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 32.45
+      value: -0.020000458
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: af329db2a43f648c89ac555d284cd611, type: 3}
       propertyPath: m_LocalRotation.w
@@ -65,7 +65,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: af329db2a43f648c89ac555d284cd611, type: 3}
       propertyPath: m_Name
-      value: PinkMilk
+      value: PinkMilk Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: af329db2a43f648c89ac555d284cd611, type: 3}
+--- !u!1 &1653410441416745037 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: af329db2a43f648c89ac555d284cd611, type: 3}
+  m_PrefabInstance: {fileID: 1887977844154047772}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &4436255664379102088
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1653410441416745037}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.3, y: 0.35, z: 0.25}
+  m_Center: {x: 0, y: 0.19, z: 0}
